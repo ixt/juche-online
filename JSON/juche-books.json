@@ -1,14 +1,4 @@
 { 
-    "TODO": [
-        "currently on": "201.pdf",
-        "1.": "Finish adding the titles, authors and dates to the current URLS",
-        "2.": "Find more sources and include Naenara's texts",
-        "3.": "Use various techniques for keywords, reading times and other semi-useful analysis",
-        "4.": "Perhaps differentiate between original language works and translations, providing links to originals if available"
-    ],
-    "sources": [ 
-        "Korean Friendship Association (KFA)": "http://www.korea-dpr.info"
-    ],
     "publications": [ 
         {
             "url": "http://www.korea-dpr.info/lib/100.pdf",
